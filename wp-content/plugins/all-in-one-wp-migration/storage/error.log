@@ -1,0 +1,15 @@
+Jun 04 2016 06:49:17
+{"Number":2,"Message":"unpack(): Type a: not enough input, need 255, have 0","File":"C:\\xampp\\htdocs\\Jahid_WOO\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":352}
+
+Jun 04 2016 06:49:18
+{"Number":8,"Message":"Undefined index: size","File":"C:\\xampp\\htdocs\\Jahid_WOO\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":355}
+
+Jun 04 2016 06:49:18
+{"Number":8,"Message":"Undefined index: mtime","File":"C:\\xampp\\htdocs\\Jahid_WOO\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":356}
+
+Jun 04 2016 06:49:18
+{"Number":8,"Message":"Undefined index: path","File":"C:\\xampp\\htdocs\\Jahid_WOO\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":357}
+
+Jun 04 2016 06:49:18
+{"Number":2,"Message":"fopen(C:\\xampp\\htdocs\\Jahid_WOO\\wordpress\/wp-content\\\\): failed to open stream: No such file or directory","File":"C:\\xampp\\htdocs\\Jahid_WOO\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":142}
+
